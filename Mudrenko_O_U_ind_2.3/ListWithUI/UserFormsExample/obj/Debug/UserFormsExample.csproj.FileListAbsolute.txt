@@ -1,0 +1,29 @@
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csprojAssemblyReference.cache
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.MainForm.resources
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csproj.GenerateResource.cache
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe.config
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.pdb
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.exe
+C:\Users\Руслана\Desktop\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.pdb
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe.config
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.exe
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.pdb
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.pdb
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csprojResolveAssemblyReference.cache
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.MainForm.resources
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csproj.GenerateResource.Cache
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\ListWithUI\UserFormsExample\bin\Debug\UserFormsExample.exe.config
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.exe
+C:\Users\stavytskyi.i\Documents\Visual Studio 2015\Projects\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.pdb
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\bin\Debug\UserFormsExample.exe.config
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\bin\Debug\UserFormsExample.exe
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\bin\Debug\UserFormsExample.pdb
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.csprojAssemblyReference.cache
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.MainForm.resources
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.csproj.GenerateResource.cache
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.exe
+C:\Users\moi_povilitel\Downloads\Telegram Desktop\ListWithUI\ListWithUI\UserFormsExample\obj\Debug\UserFormsExample.pdb
